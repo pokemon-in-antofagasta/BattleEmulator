@@ -1,0 +1,5 @@
+crear clon del juego de esgrima del juego REIGNS pero adaptado asi:
+
+-Seguirán siendo 2 competidores en un mapa finito de casillas en 2D
+-Los competidores utilizarán un ataque de turno de una cantidad de opciones a definir por turno
+-Los ataques tendrán un tipo (elemental o a definir) y cada uno será debilidad de otro 
