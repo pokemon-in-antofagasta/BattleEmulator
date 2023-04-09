@@ -1,3 +1,3 @@
-module github.com/AlejandroWaiz/PIA-BattleStadium
+module github.com/pokemon-in-antofagasta/BattleEmulator
 
 go 1.19
